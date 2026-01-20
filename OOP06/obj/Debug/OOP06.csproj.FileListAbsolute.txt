@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\OOP06\OOP06\bin\Debug\OOP06.exe.config
+C:\Users\Admin\Desktop\OOP06\OOP06\bin\Debug\OOP06.exe
+C:\Users\Admin\Desktop\OOP06\OOP06\bin\Debug\OOP06.pdb
+C:\Users\Admin\Desktop\OOP06\OOP06\obj\Debug\OOP06.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP06\OOP06\obj\Debug\OOP06.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP06\OOP06\obj\Debug\OOP06.exe
+C:\Users\Admin\Desktop\OOP06\OOP06\obj\Debug\OOP06.pdb
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\bin\Debug\OOP06.exe.config
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\bin\Debug\OOP06.exe
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\bin\Debug\OOP06.pdb
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\obj\Debug\OOP06.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\obj\Debug\OOP06.exe.config
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\obj\Debug\OOP06.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\obj\Debug\OOP06.exe
+C:\Users\Admin\Downloads\OOP06\OOP06\OOP06\obj\Debug\OOP06.pdb
