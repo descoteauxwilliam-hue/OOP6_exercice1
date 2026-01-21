@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="Page-1" id="R3H3O6PFojU7UL1-I5g1">
-    <mxGraphModel dx="1249" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2444" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -475,6 +475,12 @@
         </mxCell>
         <mxCell id="Qua31azttIfx5XZE1GTL-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="throw unreachable(&quot;cant control UFO&quot;)" vertex="1">
           <mxGeometry height="30" width="160" x="-80" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="SaMjfnYNvw8Y39kKDhGQ-2" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;ICameraEnabled&lt;/div&gt;" vertex="1">
+          <mxGeometry height="66" width="160" x="1510" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="SaMjfnYNvw8Y39kKDhGQ-3" parent="SaMjfnYNvw8Y39kKDhGQ-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;i&gt;+ CaptureImage(): void&lt;/i&gt;" vertex="1">
+          <mxGeometry height="26" width="160" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
