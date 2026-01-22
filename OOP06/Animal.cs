@@ -2,7 +2,7 @@
 
 namespace OOP06
 {
-    internal abstract class Animal
+    public abstract class Animal
     {
         internal abstract void Move();
 
