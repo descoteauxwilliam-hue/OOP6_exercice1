@@ -48,6 +48,7 @@
     <Compile Include="DragonFly.cs" />
     <Compile Include="FlightStage.cs" />
     <Compile Include="FlightStageTracker.cs" />
+    <Compile Include="ICameraEnabled.cs" />
     <Compile Include="IFlightEnabled.cs" />
     <Compile Include="IOrbitEarth.cs" />
     <Compile Include="ITrackable.cs" />
