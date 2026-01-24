@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\glider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\glider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\weatherballoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\weatherballoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\icommunicable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\icommunicable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\vaisseaualien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\vaisseaualien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\satellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\satellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\recondrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\recondrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\autonomousboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\autonomousboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\selfdrivingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\selfdrivingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\icameraenabled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\icameraenabled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\communicationsatellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\communicationsatellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|c:\\users\\willd\\source\\repos\\exercice\\oop06\\oop06\\dragonfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47C91C-6C01-44F2-893C-0844A9E8D3C0}|OOP06\\OOP06.csproj|solutionrelative:oop06\\dragonfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +70,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glider.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Glider.cs",
+              "RelativeDocumentMoniker": "OOP06\\Glider.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Glider.cs",
+              "RelativeToolTip": "OOP06\\Glider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:20:02.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherBalloon.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\WeatherBalloon.cs",
+              "RelativeDocumentMoniker": "OOP06\\WeatherBalloon.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\WeatherBalloon.cs",
+              "RelativeToolTip": "OOP06\\WeatherBalloon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:19:25.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommunicable.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\ICommunicable.cs",
+              "RelativeDocumentMoniker": "OOP06\\ICommunicable.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\ICommunicable.cs",
+              "RelativeToolTip": "OOP06\\ICommunicable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:17:49.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VaisseauAlien.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\VaisseauAlien.cs",
+              "RelativeDocumentMoniker": "OOP06\\VaisseauAlien.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\VaisseauAlien.cs",
+              "RelativeToolTip": "OOP06\\VaisseauAlien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:16:57.153Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -26,15 +134,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Missile.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Missile.cs",
+              "RelativeDocumentMoniker": "OOP06\\Missile.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Missile.cs",
+              "RelativeToolTip": "OOP06\\Missile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:15:37.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Program.cs",
               "RelativeDocumentMoniker": "OOP06\\Program.cs",
               "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Program.cs",
               "RelativeToolTip": "OOP06\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T14:45:12.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReconDrone.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\ReconDrone.cs",
+              "RelativeDocumentMoniker": "OOP06\\ReconDrone.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\ReconDrone.cs",
+              "RelativeToolTip": "OOP06\\ReconDrone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:06:23.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Satellite.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Satellite.cs",
+              "RelativeDocumentMoniker": "OOP06\\Satellite.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Satellite.cs",
+              "RelativeToolTip": "OOP06\\Satellite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:06:21.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutonomousBoat.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\AutonomousBoat.cs",
+              "RelativeDocumentMoniker": "OOP06\\AutonomousBoat.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\AutonomousBoat.cs",
+              "RelativeToolTip": "OOP06\\AutonomousBoat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:14:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SelfDrivingCar.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\SelfDrivingCar.cs",
+              "RelativeDocumentMoniker": "OOP06\\SelfDrivingCar.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\SelfDrivingCar.cs",
+              "RelativeToolTip": "OOP06\\SelfDrivingCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:14:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICameraEnabled.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\ICameraEnabled.cs",
+              "RelativeDocumentMoniker": "OOP06\\ICameraEnabled.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\ICameraEnabled.cs",
+              "RelativeToolTip": "OOP06\\ICameraEnabled.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:14:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Drone.cs",
+              "RelativeDocumentMoniker": "OOP06\\Drone.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Drone.cs",
+              "RelativeToolTip": "OOP06\\Drone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:13:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bee.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Bee.cs",
+              "RelativeDocumentMoniker": "OOP06\\Bee.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\Bee.cs",
+              "RelativeToolTip": "OOP06\\Bee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:02:56.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommunicationSatellite.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\CommunicationSatellite.cs",
+              "RelativeDocumentMoniker": "OOP06\\CommunicationSatellite.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\CommunicationSatellite.cs",
+              "RelativeToolTip": "OOP06\\CommunicationSatellite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:06:07.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DragonFly.cs",
+              "DocumentMoniker": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\DragonFly.cs",
+              "RelativeDocumentMoniker": "OOP06\\DragonFly.cs",
+              "ToolTip": "C:\\Users\\willd\\source\\repos\\exercice\\OOP06\\OOP06\\DragonFly.cs",
+              "RelativeToolTip": "OOP06\\DragonFly.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T23:05:51.728Z",
               "EditorCaption": ""
             }
           ]

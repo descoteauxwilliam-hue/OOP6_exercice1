@@ -1,6 +1,6 @@
 ﻿namespace OOP06
 {
-    public class AutonomousBoat: IAutoPilot, IEnergySource, ITrackable
+    public class AutonomousBoat: IAutoPilot, IEnergySource, ITrackable, INavigable
     {
         public void EngageAutopilot()
         {
@@ -8,6 +8,11 @@
         }
 
         public string GetEnergyType()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void SetDestination(string destination)
         {
             throw new System.NotImplementedException();
         }

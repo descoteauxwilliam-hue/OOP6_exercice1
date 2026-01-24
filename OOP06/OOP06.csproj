@@ -53,6 +53,7 @@
     <Compile Include="Drone.cs" />
     <Compile Include="FlightStage.cs" />
     <Compile Include="FlightStageTracker.cs" />
+    <Compile Include="Glider.cs" />
     <Compile Include="IAutoPilot.cs" />
     <Compile Include="ICameraEnabled.cs" />
     <Compile Include="ICommunicable.cs" />

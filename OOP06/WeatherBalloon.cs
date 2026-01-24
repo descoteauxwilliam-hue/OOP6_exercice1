@@ -1,6 +1,6 @@
 ﻿namespace OOP06
 {
-    public class WeatherBalloon: IOrbitEarth, IEnergySource, ISensorEquipped
+    public class WeatherBalloon: IOrbitEarth, IEnergySource, ISensorEquipped, ICommunicable
     {
         public void TakeOff()
         {
@@ -28,6 +28,11 @@
         }
 
         public void ReadSensors()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void TransmitData()
         {
             throw new System.NotImplementedException();
         }
