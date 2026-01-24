@@ -44,19 +44,37 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
+    <Compile Include="AutonomousBoat.cs" />
+    <Compile Include="Bee.cs" />
     <Compile Include="Bird.cs" />
+    <Compile Include="CommunicationSatellite.cs" />
+    <Compile Include="Dolphin.cs" />
     <Compile Include="DragonFly.cs" />
+    <Compile Include="Drone.cs" />
     <Compile Include="FlightStage.cs" />
     <Compile Include="FlightStageTracker.cs" />
+    <Compile Include="IAutoPilot.cs" />
     <Compile Include="ICameraEnabled.cs" />
+    <Compile Include="ICommunicable.cs" />
+    <Compile Include="IEnergySource.cs" />
     <Compile Include="IFlightEnabled.cs" />
+    <Compile Include="IMilitary.cs" />
+    <Compile Include="INavigable.cs" />
     <Compile Include="IOrbitEarth.cs" />
+    <Compile Include="ISensorEquipped.cs" />
     <Compile Include="ITrackable.cs" />
     <Compile Include="Jet.cs" />
+    <Compile Include="Missile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReconDrone.cs" />
     <Compile Include="Satellite.cs" />
+    <Compile Include="SelfDrivingCar.cs" />
+    <Compile Include="SpaceProbe.cs" />
     <Compile Include="Truck.cs" />
+    <Compile Include="UFO.cs" />
+    <Compile Include="VaisseauAlien.cs" />
+    <Compile Include="WeatherBalloon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -2,7 +2,7 @@
 
 namespace OOP06
 {
-    internal class Satellite : IOrbitEarth
+    public class Satellite : IOrbitEarth
     {
         public void AchieveOrbit()
         {

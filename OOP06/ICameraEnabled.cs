@@ -8,5 +8,6 @@ namespace OOP06
 {
     internal interface ICameraEnabled
     {
+        void CaptureImage();
     }
 }
